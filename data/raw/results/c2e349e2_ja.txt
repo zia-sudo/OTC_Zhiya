@@ -1,0 +1,1 @@
+SheepShaver（シープシェイバー）は、オープンソースのPower Macintoshエミュレータである。最初はBeOSとLinux用に設計された。この名前は Macintosh IIエミュレータのShapeShifter に掛けたものである。SheepShaver（およびShapeShifter）プロジェクトは当初クリスチャン・バウアーが発案してプログラムを作成した。しかしその後は、SheepShaverの主要な開発者は、グウェノレ・ボーシェヌ となっている。

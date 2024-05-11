@@ -1,0 +1,1 @@
+En geometría, una cadena poligonal es una serie conectada de segmentos. Más formalmente, una cadena poligonal P es una curva determinada por una secuencia de puntos , denominados sus vértices. La curva en sí consiste en los segmentos que conectan los vértices consecutivos.

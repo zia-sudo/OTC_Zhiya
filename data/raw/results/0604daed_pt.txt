@@ -1,0 +1,1 @@
+A Era UNIX ou Posix Time ou Unix epoch ou Unix Timestamp teve início no dia a 1 de janeiro de 1970. O nome se deve ao fato de esta data, dia 1 de janeiro de 1970 às 00:00:00 do Tempo Universal Coordenado (UTC) no calendário gregoriano proléptico, ser o marco zero do sistema de calendário usado pelo sistema operacional UNIX. Também pode ser chamada de era POSIX.
