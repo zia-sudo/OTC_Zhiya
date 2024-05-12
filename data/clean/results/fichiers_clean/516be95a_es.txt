@@ -1,1 +1,0 @@
-El O2 es una estación de trabajo Unix de nivel de entrada introducida en 1996 por SGI para reemplazar su serie anterior Indy. Al igual que el Indy, el O2 usaba un solo microprocesador MIPS y estaba destinado a ser utilizado principalmente para multimedia. Su contraparte más grande es el SGI Octane. El O2 fue el último intento de SGI en una estación de trabajo de gama baja.

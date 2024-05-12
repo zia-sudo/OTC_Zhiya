@@ -1,0 +1,1 @@
+Chandler est un logiciel d'organisateur personnel et de groupware fourni sous licence libre, auparavant disponible sous une licence publique générale GNU, avant d’être relicencié sous une Licence Apache en août 2006. Ce logiciel gère agenda, courriel, tâches et notes.
